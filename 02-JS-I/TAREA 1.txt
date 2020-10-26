@@ -1,0 +1,9 @@
+Variables: Son datos que se definen para posteriormente utilizarse.
+
+Strings: son cadenas de texto.
+
+Funciones(argumentos, return): las funciones como su propio nombre lo dice son funciones que conllevan a una solucion en especifico, los argumentos son clave importante para que una funcion se realice correctamente, y return es el valor retornado despues de que la funcion sea ejecutada.
+
+Declaraciones if: Es una condicional, mas conocido como "SI", se utiliza para saber si un valor se esta cumpliendo o no.
+
+Valores booleanos: Son valores que tienen dos elecciones si la funcion es correcta (true) o incorrecta (false).
