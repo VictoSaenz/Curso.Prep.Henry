@@ -1,0 +1,3 @@
+Arrays:
+
+Es un listado de datos o contenedor de datos que almacena mas de un dato para luego ser llamado cuando sea necesario
