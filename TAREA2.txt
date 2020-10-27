@@ -1,0 +1,11 @@
+FOR:
+es un bucle limitado, ya que te da opcion de poner una condicion limite para que se cierre el bucle.
+
+&&: 
+Condicional "y".
+
+||:
+Condicional "o".
+
+!:
+Condicional de negacion.
