@@ -1,0 +1,10 @@
+Objetos: Se podria decir que es un arreglo sin indices numericos.
+
+Propiedades: Son variables que se le asignan a un objeto.
+
+Metodos: Es aquella propiedad que contiene una funcion dentro de un objeto.
+
+Bucle for...in:
+
+Notacion de puntos vs notacion de corchetes:  Notacion de puntos, especifica una propiedad dentro de un objeto.
+Notacion de corchetes, especifica el valor de la variable que se encuentra dentro de un objeto 
